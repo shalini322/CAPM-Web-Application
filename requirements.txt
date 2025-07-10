@@ -1,5 +1,3 @@
-Necessary packages for the Streamlit application and data processing
-
 streamlit
 yfinance
 pandas
