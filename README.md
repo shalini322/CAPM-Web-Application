@@ -4,6 +4,11 @@ This project is an interactive web app built with **Streamlit** that allows user
 
 ---
 
+**Watch Demo Video** 
+- Link : https://drive.google.com/file/d/1q525bnptIRFWcI9HpelRvRAWPsxFkyeY/view?usp=sharing
+  
+---
+
 ## 🚀 Features
 
 - 🔍 Select up to **4 stocks** to analyze
@@ -122,5 +127,3 @@ Where:
   - Implemented **input widgets**, **metric highlights**, and **expandable summaries** for a clean and user-friendly analysis experience
 
 ---
-**App is deployed on Streamlit Community Cloud (free)**
-- Link : 
