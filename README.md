@@ -5,7 +5,7 @@ This project is an interactive web app built with **Streamlit** that allows user
 ---
 
 **Watch Demo Video** 
-- Link : https://drive.google.com/file/d/1q525bnptIRFWcI9HpelRvRAWPsxFkyeY/view?usp=sharing
+- Link : https://drive.google.com/file/d/1GJhCbDi-Mwye-dfnT5L_YCF6xwohCo3U/view?usp=sharing
   
 ---
 
